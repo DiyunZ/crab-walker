@@ -93,19 +93,8 @@ The frame, linkage layers and gears are laser-cut 1/8 inch acrylic; the feet, th
 
 | Folder | Contents |
 |---|---|
-| `fabrication/laser-cut/` | DXF files for every acrylic part and the LightBurn job file |
-| `fabrication/3d-print/` | STL files for the feet and spacers |
 | `drawings/` | Exploded assembly drawings |
-| `media/` | Photos, CAD renders and animations used above. The CAD source lives in the team's Fusion 360 project. |
-
-## Before this: Dawnstar I
-
-The first half of the project was a hand-cranked pick-and-place "factory robot" with the same payload. Its U-shaped gripper arm, hexagonal drive shaft and gear train carried over into the walker.
-
-<p>
-<img src="media/dawnstar1-cad.png" width="49%" alt="Dawnstar I CAD model">
-<img src="media/dawnstar1-prototype.jpg" width="49%" alt="Dawnstar I prototype">
-</p>
+| `media/` | Photos, CAD renders and animations used above |
 
 ## Credits
 
