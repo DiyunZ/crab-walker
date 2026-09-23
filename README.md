@@ -3,8 +3,8 @@
 A single-motor walking robot that picks up a payload, crosses grass, pebbles and hills, and drops it at the target. Built for ME 370 Mechanical Design I at the University of Illinois (Project Dawnstar II), spring 2026, by Team 12: Daniel Cai, Zac Vazquez, Shenbo Xue and Diyun Zheng.
 
 <p>
-<img src="media/cad-animation.gif" width="63%" alt="CAD animation of the Crab Walker walking">
-<img src="media/walking-floor.gif" width="35%" alt="The built walker walking on the floor">
+<img src="media/cad-animation.gif" width="66%" alt="CAD animation of the Crab Walker walking">
+<img src="media/walking-floor.gif" width="32%" alt="The built walker walking on the floor">
 </p>
 
 ## The brief
